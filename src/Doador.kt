@@ -1,0 +1,1 @@
+class Doador(nome: String, tipoSanguineo: TipoSanguineo, fatorRh: FatorRh) : Pessoa(nome, tipoSanguineo, fatorRh)
